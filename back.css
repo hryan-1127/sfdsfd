@@ -1,0 +1,12 @@
+.fixed-image {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+
+    width: 120px;
+}
+
+p {
+    font-size: 100px;
+    text-align: center;
+}
